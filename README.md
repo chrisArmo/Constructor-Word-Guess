@@ -14,24 +14,24 @@ node index.js
 
 #### Game Start
 
-![Game start](./img/start-game.png)
+![Game start](./img/start-game.jpg)
 
 #### Hit Output
 
-![Hit output](./img/hit.png)
+![Hit output](./img/hit.jpg)
 
 #### Miss Output
 
-![Miss output](./img/miss.png)
+![Miss output](./img/miss.jpg)
 
 #### Already Guessed Output
 
-![Already guessed output](./img/already-guessed.png)
+![Already guessed output](./img/already-guessed.jpg)
 
 #### Mid-Game Progress
 
-![Mid game progress](./img/mid-game.png)
+![Mid game progress](./img/mid-game.jpg)
 
 #### End Game
 
-![End game](./img/end-game.png)
+![End game](./img/end-game.jpg)
